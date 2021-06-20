@@ -1,0 +1,95 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+
+.travel_main-div {
+    border: 1px solid;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.travel_main-div img {
+    width: 100%;
+}
+
+#movieID{
+    padding: 10px;
+}
+
+.movie_header {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    display: inline-block;
+    width: 100%;
+}
+
+.movie_header i{
+    float: right;
+}
+
+.movie_review span {
+   color: orange;
+}
+
+
+.contact_1 {
+    text-align: center;
+}
+
+.good_environment_news {
+    margin-top: 13px;
+}
+
+.good_environment_news h4 {
+    border-bottom: 1px solid darkgreen;
+    padding: 8px;
+}
+
+.good_environment_news img {
+    border-radius: 25px;
+}
+
+.good_environment_news p {
+    margin-top: 10px
+}
+
+#Avengers-Endgame {
+    margin-bottom: 10px;
+}
+
+.Book {
+    cursor: pointer;  
+}
+
+.Book hr{
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
